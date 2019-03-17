@@ -66,7 +66,7 @@
 </head>
 <body class="container-fluid">
 
-	<h2>Eventos do mês de abril</h2><br>
+	<h2>Eventos do mês de março</h2><br>
 
 <?php
 	
